@@ -1,1 +1,1 @@
-recursive-include streamlit_lightweight_charts_ntf/frontend/build *
+recursive-include slwc_fork/frontend/build *
