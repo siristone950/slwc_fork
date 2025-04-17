@@ -61,5 +61,5 @@ __pypackages__/
 /*.egg-info
 
 .DS_STORE
-streamlit_lightweight_charts_ntf/frontend/node_modules
+slwc_fork/frontend/node_modules
 .vscode
