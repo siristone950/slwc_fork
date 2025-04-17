@@ -2,7 +2,7 @@ import os
 from typing import Dict
 import streamlit.components.v1 as components
 
-_COMPONENT_NAME = "streamlit_lightweight_charts_ntf"
+_COMPONENT_NAME = "slwc_fork"
 _RELEASE = True
 
 parent_dir = os.path.dirname(os.path.abspath(__file__))
