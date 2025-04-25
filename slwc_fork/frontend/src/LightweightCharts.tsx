@@ -45,7 +45,7 @@ function formatTime(timeInput: number | string): string {
   }
 
   // Format the time as desired, e.g., 'YYYY-MM-DD HH:MM:SS'
-  return date.toISOString().slice(0, 19).replace('T', ' ');
+  return date.toISOString().slice(0, 10);
 }
 
 
