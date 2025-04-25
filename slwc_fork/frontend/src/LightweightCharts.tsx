@@ -131,7 +131,7 @@ const LightweightChartsMultiplePanes: React.VFC = () => {
           prices.forEach((price) => {
             tooltipHtml +=`<div class="tooltip-content"><strong class="tooltip-title">${price.title}</strong>: `;
             if (price.type === 'Candlestick') {
-              tooltipHtml += `O: ${price.values.open}, H: ${price.values.high}, L: ${price.values.low}, C: ${price.values.close}</div>`;
+              tooltipHtml += `HEY: ${price.values.open}, HEY: ${price.values.high}, HEY: ${price.values.low}, HEY: ${price.values.close}</div>`;
             } else {
               tooltipHtml += ` ${Math.round(100 * (price.values.value + Number.EPSILON)) / 100}</div>`;
             }
