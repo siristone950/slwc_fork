@@ -11,7 +11,7 @@
     "@types/react": "^16.9.0",
     "@types/react-dom": "^16.9.0",
     "apache-arrow": "^14.0.2",
-    "lightweight-charts": "git+https://github.com/siristone950/slwc_fork",
+    "lightweight-charts": "git+https://github.com/freyastreamlit/lightweight-charts#ntf",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "^5.0.1",
